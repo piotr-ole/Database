@@ -1,0 +1,8 @@
+Database.vcxproj
+Database.vcxproj.filters
+Database.vcxproj.user
+Debug/
+Search.cpp
+Search.h
+WUT_students.bin
+main.cpp
